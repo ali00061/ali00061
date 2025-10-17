@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>💦 Scraping | Flutter | Automation | Crawling | C++ | Desktop | Point Cloud 💦</h2>
+  <h2>💦 Scraping | Flutter | Desktop | Bot 💦</h2>
 </div>
 
 I empower enthusiasts, and tech-driven businesses with cutting-edge automation tools and custom solutions that deliver real results.
