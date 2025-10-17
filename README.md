@@ -16,11 +16,6 @@ I empower enthusiasts, and tech-driven businesses with cutting-edge automation t
 
 <br/>
 
-<p align="center">  
-    <a href="https://github.com/topdeveloper212"><img src="https://github-trophies.vercel.app/?username=CodeByStella&theme=onestar&no-frame=true&column=6&row=2"   alt=""/></a>
-</p>
-
-
 # 
 <table align="center">
   <tr>
@@ -37,11 +32,11 @@ I empower enthusiasts, and tech-driven businesses with cutting-edge automation t
       <br>Javascript
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
+      <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Solidity" />
       <br>Solidity
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
+      <img src="https://skillicons.dev/icons?i=mobile" width="45" height="45" alt="Rust" />
       <br>Rust
     </td>
     <td align="center" width="90">
