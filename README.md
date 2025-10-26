@@ -1,10 +1,10 @@
 <div align="center">
-  <h2>💦 Scraping | Flutter | Desktop | Bot Expert 💦</h2>
+  <h2>💦 Full stack | Scraping | Flutter | Desktop | Expert 💦</h2>
 </div>
 
 I empower enthusiasts, and tech-driven businesses with cutting-edge automation tools and custom solutions that deliver real results.
 
-🔹 Web Scraping — Linkedin scraping, Facebook scraping, Tiktok scraping, Youtube Scraping
+🔹 Web Scraping — Linkedin, Facebook, Tiktok, Youtube Scraping
 🔹 Mobile iOS Flutter — chat app, dating app, shop app etc
 🔹 Telegram Bots & Mini Apps — Auto-trading, signal alerts, portfolio trackers, group management tools  
 🔹 AI-Driven Chrome Extensions — Intelligent automation, data extraction, and real-time trading assistants  
